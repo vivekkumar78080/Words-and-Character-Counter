@@ -1,0 +1,27 @@
+body{
+    padding: 50px 250px;
+}
+
+h1{
+    text-align: center;
+    background-color:brown;
+    color: white;
+    margin: 0%;
+    padding: 10px;
+}
+
+#text-input{
+    width: 99.3%;
+    border-color: brown;
+}
+
+p{
+    text-align: center;
+    background-color: brown;
+    font-size: 4.5vh;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
